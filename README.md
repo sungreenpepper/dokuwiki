@@ -41,6 +41,6 @@ For that extra bit of customization you can change the logo and favicon, and its
    - <img width="500" src="https://github.com/sungreenpepper/dokuwiki/assets/159649930/ea52ee25-ec32-47b1-b1a8-bbdf69004d28" />
 3. You'll need 2 image files; for the main logo you'll need an image called `logo.png`, for the favicon you will need `favicon.ico`
    - <img width="500" src="https://github.com/sungreenpepper/dokuwiki/assets/159649930/18abfb11-753c-49e8-af2d-75ee2c3fb5e2" />
-4. Press `Upload` and refresh you DokuWiki.
+4. Press `Upload` and refresh your DokuWiki.
    - <img width="500" src="https://github.com/sungreenpepper/dokuwiki/assets/159649930/e68343b7-9a67-425f-b4c4-f6476d805e48" />
 
