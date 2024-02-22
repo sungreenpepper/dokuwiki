@@ -16,7 +16,7 @@ And the following template:
   <summary>Contents</summary>
 
   1. [Setup](#setup)
-  2. [Changing the Logo and Favicon](#changing-the-logo-and-favicon-👽)
+  2. [Changing the Logo and Favicon](#changing-the-logo-and-favicon-)
 </details>
 
 ## Setup
