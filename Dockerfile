@@ -23,9 +23,6 @@ RUN sh /root/dokuwiki_download_plugin https://github.com/cosmocode/dokuwiki-plug
 # Diagrams Plugin - https://www.dokuwiki.org/plugin:diagrams
 RUN sh /root/dokuwiki_download_plugin https://github.com/cosmocode/dokuwiki-plugin-diagrams/zipball/master diagrams
 
-# Prosemirror Plugin - https://www.dokuwiki.org/plugin:prosemirror
-RUN sh /root/dokuwiki_download_plugin https://github.com/cosmocode/dokuwiki-plugin-prosemirror/zipball/release prosemirror
-
 # Edit Table Plugin - https://www.dokuwiki.org/plugin:edittable
 RUN sh /root/dokuwiki_download_plugin https://github.com/cosmocode/edittable/archive/master.zip edittable
 
